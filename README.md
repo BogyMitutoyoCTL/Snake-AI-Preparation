@@ -18,7 +18,16 @@ Die Einführung bestand aus:
 Danach ging es schon ans Lernen. Ein paar Grundlagen, die ein Informatiker unserer Meinung nach kennen sollte, wenn er mit dem Raspberry Pi arbeitet:
 
 * [Linux](praesentationen/Linux.pptx)
+
 * [Bash](praesentationen/Bash.pptx)
+
 * [Pycharm](praesentationen/Pycharm.pptx)
+
 * [Python Einführung](praesentationen/Python%20Einführung.pptx)
+
 * [Python Objektorientierung](praesentationen/Python%20Objektorientierung.pptx)
+
+Um das Gelernte zu vertiefen haben wir noch zwei Aufgaben von [Project Euler](https://projecteuler.net) gelöst.
+
+## Dienstag 20.10.2020
+
