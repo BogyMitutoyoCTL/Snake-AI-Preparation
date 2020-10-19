@@ -21,4 +21,4 @@ Danach ging es schon ans Lernen. Ein paar Grundlagen, die ein Informatiker unser
 * [Bash](praesentationen/Bash.pptx)
 * [Pycharm](praesentationen/Pycharm.pptx)
 * [Python Einführung](praesentationen/Python%20Einführung.pptx)
-* 
+* [Python Objektorientierung](praesentationen/Python%20Objektorientierung.pptx)
