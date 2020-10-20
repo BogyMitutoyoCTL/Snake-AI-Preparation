@@ -31,3 +31,9 @@ Um das Gelernte zu vertiefen haben wir noch zwei Aufgaben von [Project Euler](ht
 
 ## Dienstag 20.10.2020
 
+Am zweiten Tag sind wir auf die Versionskontrolle eingegangen mit den Präsentationen:
+
+* [Versionskontrolle](praesentationen/Versionskontrolle.pptx)
+
+* [Git Grundlagen](praesentationen/Git%20Grundlagen.pptx)
+
