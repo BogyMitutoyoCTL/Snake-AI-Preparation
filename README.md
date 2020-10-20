@@ -37,3 +37,7 @@ Am zweiten Tag sind wir auf die Versionskontrolle eingegangen mit den Präsentat
 
 * [Git Grundlagen](praesentationen/Git%20Grundlagen.pptx)
 
+Danach haben wir uns allgemein mit Künstlicher Intelligenz vertraut gemacht und auch ein paar ethische Fragen diskutiert:
+
+* [Künstliche Intelligenz](praesentationen/Künstliche%20Intelligenz.pptx)
+
