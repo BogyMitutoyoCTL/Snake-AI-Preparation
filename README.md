@@ -41,3 +41,7 @@ Danach haben wir uns allgemein mit Künstlicher Intelligenz vertraut gemacht und
 
 * [Künstliche Intelligenz](praesentationen/Künstliche%20Intelligenz.pptx)
 
+Mit diesem Vorwissen haben wir zunächst versucht, eine eigene Schlange mit Hilfe eines klassischen Algorithmus zu programmieren. Dazu gibt es die Anleitung
+
+* [Eigener Algorithmus](Eigener%20Algorithmus.md)
+
