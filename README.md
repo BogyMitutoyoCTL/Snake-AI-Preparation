@@ -45,3 +45,8 @@ Mit diesem Vorwissen haben wir zunächst versucht, eine eigene Schlange mit Hilf
 
 * [Eigener Algorithmus](Eigener%20Algorithmus.md)
 
+## Mittwoch 21.10.2020
+
+Der eigene Algorithmus konnte Schlangenlängen bis etwa 25 erreichen. Der entstandene Code nutzte viele if-Abfragen, um eine Entscheidung zu treffen. Dabei beschränkte sich die "Beobachtung" der Schlange im Wesentlichen auf die vier angrenzenden Felder. Will man auf diese Art weitermachen, entsteht so genannter Spaghetti-Code. Mit ein paar Überlegungen kommt man auf eine andere, allerdings Speicherplatz-intensive Möglichkeit der Implementierung.
+
+* [Von der Spaghetti-Schlange zu Q-Tables](praesentationen/Von der Spaghetti-Schlange zu Q-Tables.pptx)
