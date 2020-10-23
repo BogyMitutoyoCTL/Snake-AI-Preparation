@@ -42,7 +42,7 @@ Die ersten Zeilen sind immer identisch. Lediglich die Funktion `decide()` muss a
 Von diesen sehr einfachen Algorithmen haben wir einige zusammengestellt:
 
 * `RotateForever`: dreht sich immer im Kreis
-* `RandomChoice`: wählt eine Zufallsaktion, also ob man einfach blind auf dem Controller herumdrückt
+* `RandomChoice`: wählt eine Zufallsaktion, als ob man einfach blind auf dem Controller herumdrückt
 
 #### Entscheidungsgrundlagen für Algorithmen
 
