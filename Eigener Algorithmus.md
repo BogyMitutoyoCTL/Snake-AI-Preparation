@@ -58,7 +58,7 @@ Damit man sich nicht blind für eine Aktion entscheiden muss, bekommt man für d
 
 * `food_direction`: Richtung, in der sich das Futter befindet. Die Winkel sind dabei wie folgt:
 
-  ![Richtungen](D:/Projekte non-backup/Github/AI-Preparation/images/directions.png)
+  ![Richtungen](images/directions.png)
 
 * `food_distance_in_steps`: Schritte bis zum Futter (kürzester Weg, ohne Berücksichtigung von Hindernissen)
 
@@ -78,7 +78,7 @@ Ebenfalls nützlich sind einige Funktionen:
 
 Das Spielfeld ist dabei folgendermaßen aufgebaut:
 
-​    ![Aufbau des Spielfelds](D:/Projekte non-backup/Github/AI-Preparation/images/playground.png)
+​    ![Aufbau des Spielfelds](images/playground.png)
 
 Diese Richtung der Achsen ist in der Bildverarbeitung üblich. Euer Monitor hat z.B. ebenfalls die Ecke P(0|0) oben links.
 
